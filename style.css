@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container{
+    width: 80vw;
+    height: 20vw;
+    margin: auto;
+    margin-top: 3%;
+}
+
+.left{
+    width: 70%;
+    float: left;
+}
+
+.right{
+    border: 1px solid black;
+    width: 25%;
+    float: right;
+    margin-top: 90px;
+}
+
+li{
+    font-size: 20px;
+    font-weight: 500;
+    color: darkslategray;
+}
