@@ -19,11 +19,19 @@
     border: 1px solid black;
     width: 25%;
     float: right;
-    margin-top: 90px;
+    margin-top: 150px;
 }
 
 li{
     font-size: 20px;
     font-weight: 500;
     color: darkslategray;
+}
+
+hr{
+    margin-bottom: 20px;
+}
+
+h3{
+    margin-top: 20px;
 }
